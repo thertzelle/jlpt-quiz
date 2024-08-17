@@ -132,7 +132,7 @@
       "level": "N3"
     },
     {
-      "question": "Which particle correctly completes this sentence: 'あめが ふっている＿＿ でかけます。'",
+      "question": "Which particle correctly completes this sentence: 'あめが ふっている＿＿ でかけません。'",
       "choices": ["から", "のに", "ので", "ても"],
       "correctAnswer": 2,
       "level": "N3"
@@ -227,7 +227,7 @@
       "level": "N2"
     },
     {
-      "question": "Which particle correctly completes this sentence: 'お金があったら、＿を買います。'",
+      "question": "Which word correctly completes this sentence: 'お金があったら、__を買います。'",
       "choices": ["いえ ", "えいが ", "ごはん ", "かばん "],
       "correctAnswer": 0,
       "level": "N2"

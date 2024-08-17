@@ -1,0 +1,324 @@
+{
+  "questions": [
+    {
+      "question": "What is the meaning of the word 'ねこ' ?",
+      "choices": ["Dog", "Cat", "Bird", "Fish"],
+      "correctAnswer": 1,
+      "level": "N5"
+    },
+    {
+      "question": "What is the correct reading of the kanji '山'?",
+      "choices": ["かわ ", "やま ", "うみ ", "たま "],
+      "correctAnswer": 1,
+      "level": "N5"
+    },
+    {
+      "question": "What is the meaning of the word 'くるま' ?",
+      "choices": ["Car", "Bicycle", "Train", "Bus"],
+      "correctAnswer": 0,
+      "level": "N5"
+    },
+    {
+      "question": "Which particle correctly completes this sentence: 'わたしは がっこう＿いきます。' (Watashi wa gakkou ___ ikimasu.)",
+      "choices": ["で", "に", "を", "が"],
+      "correctAnswer": 1,
+      "level": "N5"
+    },
+    {
+      "question": "How do you say 'good morning' in Japanese?",
+      "choices": [
+        "おやすみなさい",
+        "こんにちは",
+        "おはようございます",
+        "こんばんは"
+      ],
+      "correctAnswer": 2,
+      "level": "N5"
+    },
+    {
+      "question": "What is the correct reading of the kanji '水'?",
+      "choices": ["みず ", "き ", "ひ ", "つち "],
+      "correctAnswer": 0,
+      "level": "N5"
+    },
+    {
+      "question": "What is the meaning of the word 'ありがとう' ?",
+      "choices": ["Please", "Thank you", "Sorry", "Goodbye"],
+      "correctAnswer": 1,
+      "level": "N5"
+    },
+    {
+      "question": "What is the correct reading of the kanji '火'?",
+      "choices": ["みず ", "か ", "ひ ", "き "],
+      "correctAnswer": 2,
+      "level": "N5"
+    },
+    {
+      "question": "What is the meaning of '今日' ?",
+      "choices": ["Yesterday", "Tomorrow", "Today", "Morning"],
+      "correctAnswer": 2,
+      "level": "N5"
+    },
+    {
+      "question": "What is the correct reading of the kanji '木'?",
+      "choices": ["つち ", "ひ ", "き ", "みず "],
+      "correctAnswer": 2,
+      "level": "N5"
+    },
+    {
+      "question": "What is the meaning of 'べんきょう' ?",
+      "choices": ["Play", "Study", "Work", "Sleep"],
+      "correctAnswer": 1,
+      "level": "N4"
+    },
+    {
+      "question": "Which form of the verb is used to express ability: '食べる' ?",
+      "choices": ["食べた ", "食べられる ", "食べよう ", "食べる "],
+      "correctAnswer": 1,
+      "level": "N4"
+    },
+    {
+      "question": "What is the correct reading of the kanji '車'?",
+      "choices": ["てん ", "しゃ ", "くるま ", "たく "],
+      "correctAnswer": 2,
+      "level": "N4"
+    },
+    {
+      "question": "What is the meaning of 'あした' ?",
+      "choices": ["Today", "Tomorrow", "Yesterday", "Now"],
+      "correctAnswer": 1,
+      "level": "N4"
+    },
+    {
+      "question": "Which particle correctly completes this sentence: 'たなかさんは かいしゃ＿ いきました。' (Tanaka-san wa kaisha ___ ikimashita.)",
+      "choices": ["に", "を", "が", "で"],
+      "correctAnswer": 0,
+      "level": "N4"
+    },
+    {
+      "question": "What is the correct reading of the kanji '大きい'?",
+      "choices": ["おおきい ", "ちいさい ", "ながい ", "ふるい "],
+      "correctAnswer": 0,
+      "level": "N4"
+    },
+    {
+      "question": "What is the meaning of the word '友達' ?",
+      "choices": ["Teacher", "Friend", "Student", "Parent"],
+      "correctAnswer": 1,
+      "level": "N4"
+    },
+    {
+      "question": "What is the correct reading of the kanji '人'?",
+      "choices": ["みず ", "ひと ", "やま ", "つき "],
+      "correctAnswer": 1,
+      "level": "N4"
+    },
+    {
+      "question": "What is the meaning of the word 'じてんしゃ' ?",
+      "choices": ["Bicycle", "Bus", "Car", "Train"],
+      "correctAnswer": 0,
+      "level": "N4"
+    },
+    {
+      "question": "What is the correct reading of the kanji '食べる'?",
+      "choices": ["たべる ", "のむ ", "みる ", "かう "],
+      "correctAnswer": 0,
+      "level": "N4"
+    },
+    {
+      "question": "What is the meaning of '危険' ?",
+      "choices": ["Safe", "Dangerous", "Expensive", "Cheap"],
+      "correctAnswer": 1,
+      "level": "N3"
+    },
+    {
+      "question": "Which particle correctly completes this sentence: 'あめが ふっている＿＿ でかけます。' (Ame ga futteiru ___ dekakemasu.)",
+      "choices": ["から", "のに", "ので", "ても"],
+      "correctAnswer": 2,
+      "level": "N3"
+    },
+    {
+      "question": "What is the correct reading of the kanji '食'?",
+      "choices": ["た ", "い ", "か ", "く "],
+      "correctAnswer": 3,
+      "level": "N3"
+    },
+    {
+      "question": "What is the meaning of '復習' ?",
+      "choices": ["Practice", "Review", "Test", "Memorization"],
+      "correctAnswer": 1,
+      "level": "N3"
+    },
+    {
+      "question": "What is the correct reading of the kanji '学校'?",
+      "choices": ["がっこう ", "がくせい ", "せんせい ", "こうこう "],
+      "correctAnswer": 0,
+      "level": "N3"
+    },
+    {
+      "question": "What is the meaning of '便利' ?",
+      "choices": ["Inconvenient", "Convenient", "Expensive", "Cheap"],
+      "correctAnswer": 1,
+      "level": "N3"
+    },
+    {
+      "question": "Which particle correctly completes this sentence: '日本語＿ 勉強しています。' (Nihongo ___ benkyou shiteimasu.)",
+      "choices": ["で", "に", "を", "が"],
+      "correctAnswer": 2,
+      "level": "N3"
+    },
+    {
+      "question": "What is the correct reading of the kanji '電車'?",
+      "choices": ["でんしゃ ", "じてんしゃ ", "くるま ", "ひこうき "],
+      "correctAnswer": 0,
+      "level": "N3"
+    },
+    {
+      "question": "What is the meaning of '必要' ?",
+      "choices": ["Necessary", "Unnecessary", "Expensive", "Cheap"],
+      "correctAnswer": 0,
+      "level": "N3"
+    },
+    {
+      "question": "What is the correct reading of the kanji '新しい'?",
+      "choices": ["あたらしい ", "ふるい ", "たかい ", "ひろい "],
+      "correctAnswer": 0,
+      "level": "N3"
+    },
+    {
+      "question": "What is the meaning of '感謝' ?",
+      "choices": ["Regret", "Gratitude", "Anger", "Sadness"],
+      "correctAnswer": 1,
+      "level": "N2"
+    },
+    {
+      "question": "Which form of the verb is used to express obligation: '読む' ?",
+      "choices": [
+        "読まない ",
+        "読みたい ",
+        "読まなければならない (yomanakereba naranai)",
+        "読むことができる (yomu koto ga dekiru)"
+      ],
+      "correctAnswer": 2,
+      "level": "N2"
+    },
+    {
+      "question": "What is the correct reading of the kanji '経済'?",
+      "choices": ["けいざい ", "けいさい ", "けいざく ", "けいせい "],
+      "correctAnswer": 0,
+      "level": "N2"
+    },
+    {
+      "question": "What is the meaning of '印象' ?",
+      "choices": ["Impression", "Detail", "Structure", "Concept"],
+      "correctAnswer": 0,
+      "level": "N2"
+    },
+    {
+      "question": "What is the correct reading of the kanji '世界'?",
+      "choices": ["せかい ", "せけい ", "しけん ", "けいかい "],
+      "correctAnswer": 0,
+      "level": "N2"
+    },
+    {
+      "question": "What is the meaning of '経験' ?",
+      "choices": ["Knowledge", "Experience", "Skill", "Memory"],
+      "correctAnswer": 1,
+      "level": "N2"
+    },
+    {
+      "question": "Which particle correctly completes this sentence: 'お金があったら、＿を買います。' (Okane ga attara, ___ wo kaimasu.)",
+      "choices": ["いえ ", "えいが ", "ごはん ", "かばん "],
+      "correctAnswer": 0,
+      "level": "N2"
+    },
+    {
+      "question": "What is the correct reading of the kanji '意味'?",
+      "choices": ["いみ ", "いえ ", "うみ ", "いま "],
+      "correctAnswer": 0,
+      "level": "N2"
+    },
+    {
+      "question": "What is the meaning of '責任' ?",
+      "choices": ["Responsibility", "Freedom", "Joy", "Regret"],
+      "correctAnswer": 0,
+      "level": "N2"
+    },
+    {
+      "question": "What is the correct reading of the kanji '医者'?",
+      "choices": ["いしゃ ", "いえ ", "いた ", "いし "],
+      "correctAnswer": 0,
+      "level": "N2"
+    },
+    {
+      "question": "What is the meaning of '適切' ?",
+      "choices": ["Inappropriate", "Appropriate", "Unnecessary", "Essential"],
+      "correctAnswer": 1,
+      "level": "N1"
+    },
+    {
+      "question": "Which structure expresses a conditional: '読む' ?",
+      "choices": [
+        "読まないでください (yomanaide kudasai)",
+        "読むべきだ (yomu beki da)",
+        "読めば ",
+        "読もうとした (yomou to shita)"
+      ],
+      "correctAnswer": 2,
+      "level": "N1"
+    },
+    {
+      "question": "What is the correct reading of the kanji '企画'?",
+      "choices": ["きかく ", "きがく ", "きぐ ", "きけん "],
+      "correctAnswer": 0,
+      "level": "N1"
+    },
+    {
+      "question": "What is the meaning of '膨大' ?",
+      "choices": ["Huge", "Small", "Expensive", "Cheap"],
+      "correctAnswer": 0,
+      "level": "N1"
+    },
+    {
+      "question": "What is the correct reading of the kanji '逆'?",
+      "choices": ["ぎゃく ", "きゃく ", "やく ", "ぎく "],
+      "correctAnswer": 0,
+      "level": "N1"
+    },
+    {
+      "question": "What is the meaning of '詳細' ?",
+      "choices": ["Details", "Summary", "Chapter", "Theme"],
+      "correctAnswer": 0,
+      "level": "N1"
+    },
+    {
+      "question": "Which structure is correct for expressing a desire: '飲む' ?",
+      "choices": [
+        "飲みたい ",
+        "飲むべき (nomu beki)",
+        "飲まなければならない (nomanakereba naranai)",
+        "飲むことができる (nomu koto ga dekiru)"
+      ],
+      "correctAnswer": 0,
+      "level": "N1"
+    },
+    {
+      "question": "What is the correct reading of the kanji '尊敬'?",
+      "choices": ["そんけい ", "しょうけい ", "せんけい ", "けんけい "],
+      "correctAnswer": 0,
+      "level": "N1"
+    },
+    {
+      "question": "What is the meaning of '縮小' ?",
+      "choices": ["Reduction", "Expansion", "Explosion", "Elevation"],
+      "correctAnswer": 0,
+      "level": "N1"
+    },
+    {
+      "question": "What is the correct reading of the kanji '迅速'?",
+      "choices": ["じんそく ", "しんそく ", "せんそく ", "けんそく "],
+      "correctAnswer": 0,
+      "level": "N1"
+    }
+  ]
+}

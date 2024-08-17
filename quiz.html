@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JLPT Level Quiz</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="quiz-container">
+      <h1>JLPT Level Quiz</h1>
+      <div id="quiz">
+        <div id="question-container">
+          <h2 id="question"></h2>
+          <div id="choices">
+            <button class="choice" onclick="selectAnswer(0)">Choice 1</button>
+            <button class="choice" onclick="selectAnswer(1)">Choice 2</button>
+            <button class="choice" onclick="selectAnswer(2)">Choice 3</button>
+            <button class="choice" onclick="selectAnswer(3)">Choice 4</button>
+          </div>
+        </div>
+      </div>
+      <div id="results-container" style="display: none">
+        <h2>Your JLPT Level: <span id="jlpt-level"></span></h2>
+        <p id="result-details"></p>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -13,13 +13,13 @@
       "level": "N5"
     },
     {
-      "question": "What is the meaning of the word 'くるま' ?",
+      "question": "What is the meaning of the word 'じてんしゃ ' ?",
       "choices": ["Car", "Bicycle", "Train", "Bus"],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "level": "N5"
     },
     {
-      "question": "Which particle correctly completes this sentence: 'わたしは がっこう＿いきます。' (Watashi wa gakkou ___ ikimasu.)",
+      "question": "Which particle correctly completes this sentence: 'わたしは がっこう＿いきます。'",
       "choices": ["で", "に", "を", "が"],
       "correctAnswer": 1,
       "level": "N5"
@@ -72,7 +72,7 @@
       "level": "N4"
     },
     {
-      "question": "Which form of the verb is used to express ability: '食べる' ?",
+      "question": "Which form of the verb is used to express the ability (can): '食べる' ?",
       "choices": ["食べた ", "食べられる ", "食べよう ", "食べる "],
       "correctAnswer": 1,
       "level": "N4"
@@ -90,14 +90,14 @@
       "level": "N4"
     },
     {
-      "question": "Which particle correctly completes this sentence: 'たなかさんは かいしゃ＿ いきました。' (Tanaka-san wa kaisha ___ ikimashita.)",
+      "question": "Which particle correctly completes this sentence: 'たなかさんは かいしゃ＿ いきました。'",
       "choices": ["に", "を", "が", "で"],
       "correctAnswer": 0,
       "level": "N4"
     },
     {
       "question": "What is the correct reading of the kanji '大きい'?",
-      "choices": ["おおきい ", "ちいさい ", "ながい ", "ふるい "],
+      "choices": ["おおきい ", "おおぎい ", "おぎい ", "おきい "],
       "correctAnswer": 0,
       "level": "N4"
     },
@@ -114,8 +114,8 @@
       "level": "N4"
     },
     {
-      "question": "What is the meaning of the word 'じてんしゃ' ?",
-      "choices": ["Bicycle", "Bus", "Car", "Train"],
+      "question": "What is the meaning of the word '世界' ?",
+      "choices": ["World", "Ground", "Lake", "Earth"],
       "correctAnswer": 0,
       "level": "N4"
     },
@@ -132,7 +132,7 @@
       "level": "N3"
     },
     {
-      "question": "Which particle correctly completes this sentence: 'あめが ふっている＿＿ でかけます。' (Ame ga futteiru ___ dekakemasu.)",
+      "question": "Which particle correctly completes this sentence: 'あめが ふっている＿＿ でかけます。'",
       "choices": ["から", "のに", "ので", "ても"],
       "correctAnswer": 2,
       "level": "N3"
@@ -162,7 +162,7 @@
       "level": "N3"
     },
     {
-      "question": "Which particle correctly completes this sentence: '日本語＿ 勉強しています。' (Nihongo ___ benkyou shiteimasu.)",
+      "question": "Which particle correctly completes this sentence: '日本語＿ 勉強しています。'",
       "choices": ["で", "に", "を", "が"],
       "correctAnswer": 2,
       "level": "N3"
@@ -196,8 +196,8 @@
       "choices": [
         "読まない ",
         "読みたい ",
-        "読まなければならない (yomanakereba naranai)",
-        "読むことができる (yomu koto ga dekiru)"
+        "読まなければならない ",
+        "読むことができる "
       ],
       "correctAnswer": 2,
       "level": "N2"
@@ -227,7 +227,7 @@
       "level": "N2"
     },
     {
-      "question": "Which particle correctly completes this sentence: 'お金があったら、＿を買います。' (Okane ga attara, ___ wo kaimasu.)",
+      "question": "Which particle correctly completes this sentence: 'お金があったら、＿を買います。'",
       "choices": ["いえ ", "えいが ", "ごはん ", "かばん "],
       "correctAnswer": 0,
       "level": "N2"
@@ -259,10 +259,10 @@
     {
       "question": "Which structure expresses a conditional: '読む' ?",
       "choices": [
-        "読まないでください (yomanaide kudasai)",
-        "読むべきだ (yomu beki da)",
+        "読まないでください",
+        "読むべきだ ",
         "読めば ",
-        "読もうとした (yomou to shita)"
+        "読もうとした "
       ],
       "correctAnswer": 2,
       "level": "N1"
@@ -295,9 +295,9 @@
       "question": "Which structure is correct for expressing a desire: '飲む' ?",
       "choices": [
         "飲みたい ",
-        "飲むべき (nomu beki)",
-        "飲まなければならない (nomanakereba naranai)",
-        "飲むことができる (nomu koto ga dekiru)"
+        "飲むべき ",
+        "飲まなければならない ",
+        "飲むことができる "
       ],
       "correctAnswer": 0,
       "level": "N1"
